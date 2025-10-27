@@ -47,6 +47,8 @@ If you make any changes and want to upload them, go back to the Github Desktop a
 ![enter image description here](https://github.com/ImSentient/LASSO/blob/main/Pictures/6.png)
 
 You can remove any files you don't want to push to main on the left sidebar, and you can optionally write a title with a brief description of the data you've added (for bookkeeping)
+
+
 ![enter image description here](https://github.com/ImSentient/LASSO/blob/main/Pictures/7.png)
 
 After you're done, click "commit to main" and then "push origin"
