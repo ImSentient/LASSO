@@ -1,9 +1,13 @@
 ## Hello!
 
 Table of Contents:
-[Obsidian](#Obsidian)
 [Pulling](#Pulling)
+
 [Committing / Pushing](Committing-/-Pushing)
+
+[Obsidian](#Obsidian)
+
+
 if you want to contribute to this project, there's a few steps you need to do first:
 * Download [Github Desktop](https://desktop.github.com/download/) (or if you know CLI that works too)
 * Download [Obsidian](https://obsidian.md/)
