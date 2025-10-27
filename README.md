@@ -1,6 +1,7 @@
 ## Hello!
 
 Table of Contents:
+
 [Pulling](#Pulling)
 
 [Committing / Pushing](Committing-/-Pushing)
